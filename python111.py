@@ -1,9 +1,8 @@
 msg = "hi Anjana"
 print(msg.capitalize())
+#output: Hi anjana
 
 name = "Anjanaa"
-age = 33
-height = 5.4
 is_dev = True
 nothing = None
 
