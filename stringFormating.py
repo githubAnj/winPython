@@ -9,3 +9,5 @@ print('Hello {}! its a good day'.format(name))
 
 print(f"hello {name}")
 print(f"hey {name} we are on {count} days code challenge")
+
+print(10 % 1000 )
